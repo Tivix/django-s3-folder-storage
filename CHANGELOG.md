@@ -1,6 +1,10 @@
 django-s3-folder-storage
 ========================
 
+Version 0.4:
+------------
+ - Building upon django-storages-redux
+
 Version 0.2:
 ------------
 
